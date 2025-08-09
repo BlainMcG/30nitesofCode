@@ -1,5 +1,0 @@
-age =  input("how old are you? ")
-birth_year = 2025 - int(age)
-print(birth_year)
-print("you will be 100 in the year " + str(birth_year + 100))
-print("-----------------")
